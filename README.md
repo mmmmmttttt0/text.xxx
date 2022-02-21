@@ -1,2 +1,2 @@
 # text.xxx
-This is a descriptio
+This is a description
